@@ -34,15 +34,15 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 # Camouflages
 
-## Mount Evereast
+## Mount Everest
 
 - Camouflage.
 
-![image](./camos/camo-mount-evereast.png)
+![image](./camos/camo-mount-everest.png)
 
 - Based on photograph.
 
-![image](./photos/photo-mount-evereast.jpg)
+![image](./photos/photo-mount-everest.jpg)
 
 - Attributing the photograph author.
 
