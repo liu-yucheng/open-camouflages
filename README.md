@@ -50,3 +50,19 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 By I, Luca Galuzzi, CC BY-SA 2.5,
 https://commons.wikimedia.org/w/index.php?curid=1810976
 ```
+
+## Manhattan
+- Camouflage.
+
+![image](./camos/camo-manhattan.png)
+
+- Based on photograph.
+
+![image](./photos/photo-manhattan.jpg)
+
+- Attributing the photograph author.
+
+```text
+By Quintano, Anthony, CC BY 2.0,
+https://en.wikipedia.org/wiki/File:Above_Gotham.jpg
+```
