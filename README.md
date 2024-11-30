@@ -46,12 +46,13 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 - Attributing the photograph author.
 
-```text
+```
 By I, Luca Galuzzi, CC BY-SA 2.5,
-https://commons.wikimedia.org/w/index.php?curid=1810976
+Link: https://commons.wikimedia.org/w/index.php?curid=1810976 .
 ```
 
 ## Manhattan
+
 - Camouflage.
 
 ![image](./camos/camo-manhattan.png)
@@ -62,7 +63,24 @@ https://commons.wikimedia.org/w/index.php?curid=1810976
 
 - Attributing the photograph author.
 
-```text
+```
 By Quintano, Anthony, CC BY 2.0,
-https://en.wikipedia.org/wiki/File:Above_Gotham.jpg
+Link: https://en.wikipedia.org/wiki/File:Above_Gotham.jpg .
+```
+
+## Hubble eXtreme Deep Field
+
+- Camouflage.
+
+![image](./camos/camo-hubble-extreme-deep-field.png)
+
+- Based on photograph.
+
+![image](./photos/photo-hubble-extreme-deep-field.jpg)
+
+- Attributing the photograph author.
+
+```
+By ESA/Hubble, CC BY 4.0,
+Link: https://esahubble.org/images/heic1214a/ .
 ```
